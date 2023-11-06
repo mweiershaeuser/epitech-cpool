@@ -1,0 +1,14 @@
+**/*.out
+
+**/*~
+**/#*#
+**/.#*
+
+main.c
+my_putchar.c
+
+coding-style-reports.log
+
+unit_tests
+**/*.gcda
+**/*.gcno
