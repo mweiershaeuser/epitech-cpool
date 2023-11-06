@@ -23,7 +23,7 @@ char *mystrstr(char *str, char *to_find)
     int i = 0;
     int found = 0;
 
-    if (to_find[0] = '\0') {
+    if (to_find[0] == '\0') {
         return str;
     }
     while (str[i] != '\0') {
