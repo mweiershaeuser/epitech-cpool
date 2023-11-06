@@ -1,0 +1,17 @@
+**/*.out
+**/*.o
+**/*.a
+
+task
+rush3
+
+**/*~
+**/#*#
+**/.#*
+
+**/coding-style-reports.log
+
+coverage
+**/unit_tests
+**/*.gcda
+**/*.gcno
